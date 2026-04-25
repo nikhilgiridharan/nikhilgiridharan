@@ -1,6 +1,6 @@
 # Hello, I'm Nikhil Giridharan 
 
-> I am a Data Engineer building data platforms and analytics. 
+> Data Engineer building scalable data platforms and real-time pipelines that power enterprise analytics.
 
 ## What I build
 
