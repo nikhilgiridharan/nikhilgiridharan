@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello, I'm Nikhil Giridharan 
 
-<!--
-**nikhilgiridharan/nikhilgiridharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I am a Data Engineer building data platforms and analytics. 
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tradepulse -
+
+Verdant - 
+
+## Tech Stack
+
+```
+Languages and Tools: Python, SQL, Spark, AWS, Kafka, Databricks, Power BI, PostgreSQL, Airflow
+```
+
+## Stats
+
+- 📍 Dallas, Texas, United States
+- 🔗 nikhilgiridharan.com
+- 💼 Open to: Full Time Data Engineer roles, Volunteer Data Engineer Roles 
+
+## Best work
+
+Check out my pinned repositories ↓
+
+---
