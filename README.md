@@ -30,9 +30,3 @@
 - 📍 Dallas, Texas, United States
 - 🔗 [nikhilgiridharan.com](https://nikhilgiridharan.com)
 - 💼 Open to: Full Time Data Engineer roles
-
-## Best work
-
-Check out my pinned repositories ↓
-
----
