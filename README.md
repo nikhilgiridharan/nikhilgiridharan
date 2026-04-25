@@ -1,5 +1,3 @@
-nikhilgiridharan/README.md
-
 # Hey, I'm Nikhil Giridharan 👋
 
 📍 Dallas, TX | 📊 Data Engineer 
