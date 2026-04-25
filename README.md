@@ -17,7 +17,7 @@ Languages and Tools: Python, SQL, Spark, AWS, Kafka, Databricks, Power BI, Postg
 ## Stats
 
 - 📍 Dallas, Texas, United States
-- 🔗 nikhilgiridharan.com
+- 🔗 [nikhilgiridharan.com](https://nikhilgiridharan.com)
 - 💼 Open to: Full Time Data Engineer roles
 
 ## Best work
