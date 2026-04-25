@@ -20,12 +20,6 @@
 
 🕊️ Verdant - 
 
-## Tech Stack
-
-```
-Languages and Tools: Python, SQL, Spark, AWS, Kafka, Databricks, Power BI, PostgreSQL, Airflow
-```
-
 ## Stats
 
 - 📍 Dallas, Texas, United States
