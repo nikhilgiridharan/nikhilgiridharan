@@ -20,4 +20,10 @@
 
 🕊️ [Verdant](https://verdant.nikhilgiridharan.com) - Carbon Emissions Intelligence Platform
 
+## Experience
 
+- Data Engineer II at Centene Corporation
+
+- Data Engineer I at Verizon
+
+- Data Engineer Intern at Blackmore Partners
