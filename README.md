@@ -16,6 +16,7 @@
 
 ## Projects
 
-📈 Tradepulse - 
+📈 [Tradepulse](tradepulse.nikhilgiridharan.com) - Real-Time Two-Stream Market Data Pipeline
+🕊️ [Verdant](https://verdant.nikhilgiridharan.com) - Carbon Emissions Intelligence Platform
 
-🕊️ Verdant - 
+
