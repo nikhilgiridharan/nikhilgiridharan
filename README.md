@@ -27,3 +27,11 @@
 - Data Engineer I at Verizon
 
 - Data Engineer Intern at Blackmore Partners
+
+## Github Stats
+
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilgiridharan&show_icons=true&theme=tokyonight&hide_border=true)
+
+
+## Top Programming Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgiridharan&layout=compact&theme=tokyonight&hide_border=true)
