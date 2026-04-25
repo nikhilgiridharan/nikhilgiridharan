@@ -14,13 +14,18 @@
 
 > Building scalable data platforms and real-time pipelines that power enterprise analytics.
 
-## What I build
+## Projects
 
 📈 Tradepulse - 
 
 🕊️ Verdant - 
 
-## Stats
+## What I'm Doing
+
+
+
+## Connect
+
 
 - 📍 Dallas, Texas, United States
 - 🔗 [nikhilgiridharan.com](https://nikhilgiridharan.com)
