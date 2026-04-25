@@ -1,6 +1,6 @@
 # Hey, I'm Nikhil Giridharan 👋
 
-📍 Dallas, TX | 📊 Data Engineer 
+📍Dallas, TX | 📊 Data Engineer 
 
 ![Python](https://img.shields.io/badge/Python-3730A3?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-166534?style=flat&logo=postgresql&logoColor=white)
@@ -19,14 +19,3 @@
 📈 Tradepulse - 
 
 🕊️ Verdant - 
-
-## What I'm Doing
-
-
-
-## Connect
-
-
-- 📍 Dallas, Texas, United States
-- 🔗 [nikhilgiridharan.com](https://nikhilgiridharan.com)
-- 💼 Open to: Full Time Data Engineer roles
