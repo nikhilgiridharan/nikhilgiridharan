@@ -4,9 +4,9 @@
 
 ## What I build
 
-Tradepulse -
+📈 Tradepulse -
 
-Verdant - 
+🕊️ Verdant - 
 
 ## Tech Stack
 
