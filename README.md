@@ -27,7 +27,3 @@
 - Data Engineer I at Verizon
 
 - Data Engineer Intern at Blackmore Partners
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nikhilgiridharan.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nikhilgiridharan)
