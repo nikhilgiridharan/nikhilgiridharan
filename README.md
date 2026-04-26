@@ -28,16 +28,6 @@
 
 - Data Engineer Intern at Blackmore Partners
 
-## Github Stats
 
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilgiridharan&show_icons=true&theme=tokyonight&hide_border=true)
-
-
-## Top Programming Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgiridharan&layout=compact&theme=tokyonight&hide_border=true)
-
-
-## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilgiridharan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nikhilgiridharan.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nikhilgiridharan)
