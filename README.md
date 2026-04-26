@@ -27,3 +27,9 @@
 - Data Engineer I at Verizon
 
 - Data Engineer Intern at Blackmore Partners
+
+## Certification
+
+- Databricks Certified Data Engineer Professional
+
+## Contact 
