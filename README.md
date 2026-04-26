@@ -26,6 +26,8 @@
 
 - Data Engineer I at Verizon
 
+- Data Engineer Intern at Verizon
+
 - Data Engineer Intern at Blackmore Partners
 
 ## Certification
