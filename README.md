@@ -12,7 +12,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-065F46?style=flat&logo=postgresql&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
-> Data Engineer with experience designing scalable data pipelines, leading complex data migrations, and transforming raw data into actionable insights through cloud-based analytics platforms. I've put all three into practice at enterprise scale, turning complex data problems into reliable systems that business teams depend on.                                                                                                                                                            > I finished my CS degree at UT Dallas in 1 year and jumped straight into the industry. Currently seeking data engineering roles. U.S. Citizen, open to relocation.
+> Data Engineer with experience designing scalable data pipelines, leading complex data migrations, and transforming raw data into actionable insights through cloud-based analytics platforms. I've put all three into practice at enterprise scale, turning complex data problems into reliable systems that business teams depend on.                                                                                                                                                             I finished my CS degree at UT Dallas in 1 year and jumped straight into the industry. Currently seeking data engineering roles. U.S. Citizen, open to relocation.
 
 ## Projects
 
