@@ -34,7 +34,7 @@
 
 ## Contact 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://linkedin.com/in/nikhilgiridharan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=social&logo=vercel)](https://nikhilgiridharan.com)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=social&logo=medium)](https://medium.com/@nickgiridharan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=social&logo=gmail)](mailto:nickgiridharan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/nikhilgiridharan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge)](https://nikhilgiridharan.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge)](https://medium.com/@nickgiridharan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge)](mailto:nickgiridharan@gmail.com)
