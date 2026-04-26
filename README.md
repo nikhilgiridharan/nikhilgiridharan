@@ -1,4 +1,4 @@
-# Hey, I'm Nikhil Giridharan 👋
+# Hi, I'm Nikhil Giridharan 👋
 
 📍Dallas, TX | 📊 Data Engineer 
 
