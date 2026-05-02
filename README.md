@@ -32,7 +32,7 @@
 
 ## Education
 
-- The University of Texas at Dallas, Bachelor of Science in Computer Science
+- The University of Texas at Dallas, Bachelors Degree in Computer Science
 
 ## Contact 
 
