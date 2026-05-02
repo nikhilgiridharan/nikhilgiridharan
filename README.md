@@ -30,9 +30,9 @@
 
 - Data Engineer Intern at Blackmore Partners
 
-## Certification
+## Education
 
-- Databricks Certified Data Engineer Professional
+- The University of Texas at Dallas, Bachelor of Science in Computer Science
 
 ## Contact 
 
