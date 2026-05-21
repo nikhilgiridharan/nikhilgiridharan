@@ -1,6 +1,6 @@
 # Hi, I'm Nikhil Giridharan 👋
 
-**📍Dallas, TX   |   📊 Data Engineer   | 🔨 Building**
+** 📊 Data Engineer | 📍Dallas, Texas**
 
 ![Python](https://img.shields.io/badge/Python-3730A3?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-166534?style=flat&logo=postgresql&logoColor=white)
